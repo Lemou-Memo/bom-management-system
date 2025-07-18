@@ -1,0 +1,16 @@
+{
+  "name": "sure-balance-know-sj5w6",
+  "productName": "sure-balance-know-sj5w6",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "30714",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "25.0.0"
+  }
+}
